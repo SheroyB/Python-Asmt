@@ -2,7 +2,7 @@
 
 score = 0
 
-qa = {'Nz' : 'WGTN', 'Aus' : 'Can', 'Ind' : 'NDL', 'China' : 'Bjing'}
+qa = {'Nz' : 'Wellington', 'Aus' : 'Canberra', 'Ind' : 'New Delhi', 'China' : 'Beijing'}
 
 year = int(input('Enter your year level : '))
 
